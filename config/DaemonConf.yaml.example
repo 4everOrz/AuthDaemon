@@ -1,0 +1,10 @@
+#测试端参数配置
+delay: 10
+Pack_T: monitor
+cli_ca_file: ./resource/ca.crt
+cli_cert_file: ./resource/ccc.crt
+cli_key_file: ./resource/ccc.key
+
+reIP: 127.0.0.1
+rePort: 16102
+
